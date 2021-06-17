@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SkyFarm</string>
+    <string name="game_version_full">0.0.0</string>
+    <string name="launcher_startText">SkyFarm is a 3D RPG Game developed for just about any platform. Currently, SkyFarm is in an early alpha phase and can be quite unstable at times or even crash. If a problem occurs, please make a bug report.</string>
 </resources>

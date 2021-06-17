@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="creadevl.lazypotatodev.fantasyfarm">
-
+    package="creadevl.lazypotatodev.fantasyfarm"
+    android:versionCode="0"
+    android:versionName="@string/game_version_full">
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:isGame="true"
+        android:description="WIP 3D RPG Game"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SkyFarm">
